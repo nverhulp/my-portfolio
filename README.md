@@ -15,3 +15,44 @@ With these points in mind, in this Challenge you’ll set yourself up for future
 3. [Comments](#comments)
 4. [URL of Deployed Application](#url-of-deployed-application)
 5. [Credits](#credits)
+
+## Deployed Page
+
+
+
+## Acceptance Criteria
+
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
+
+## Comments
+
+1. Linked sections to corresponding header name.
+2. Created three sections: About Me, Work Experience, Contact Me.
+3. Made each work experience image a clickable link that would take user to a new page.
+4. Added a "Go Back to Home" button on other html pages.
+5. Added captions to each work experience image.
+6. Added a hover effect so that the user would know which image they are on.
+7. Created individual pages with small excerpt about each work experience.
+8. Included a contact section that leads user to email me, my github profile, and my LinkedIn page.
+9. Assigned different sections to similar classes so that I could have cleaner code in my style.css file.
+10. Made sure to have a responsive layout that adapts to user's viewport.
+
+## URL of Deployed Application
+
+
+
+## Credits
+
+1. Article about aligning images horizontally by [TutorialsPoint](https://www.tutorialspoint.com/how-to-align-images-side-by-side-with-css)
