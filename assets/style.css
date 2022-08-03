@@ -95,6 +95,10 @@ body {
     background-color: plum;
 }
 
+.picture a img {
+    border-radius: 2%;
+}
+
 .picture:hover {
     box-shadow: inset 0px 0px 8px purple, 0 0 15 px purple;
     transform: scale(1.05);
@@ -107,6 +111,7 @@ body {
 .worklist {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 footer {
