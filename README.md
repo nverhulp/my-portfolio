@@ -56,3 +56,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Credits
 
 1. Article about hovering over images by [W3Schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+2. Article aboout :nth-of-type() function by [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type)
