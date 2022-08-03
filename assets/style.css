@@ -70,6 +70,13 @@ body {
     background-color: mistyrose;
 }
 
+.main img {
+    height: 300px;
+    width: 300px;
+    float: center;
+    border: none;
+}
+
 .picture {
     flex-grow: 1;
     width: 50%;
