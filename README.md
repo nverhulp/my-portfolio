@@ -55,4 +55,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Credits
 
-1. Article about aligning images horizontally by [TutorialsPoint](https://www.tutorialspoint.com/how-to-align-images-side-by-side-with-css)
+1. Article about hovering over images by [W3Schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
