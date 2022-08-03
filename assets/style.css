@@ -36,6 +36,11 @@
     margin-left: 25px;
 }
 
+nav a:hover {
+    font-size: 110%;
+    border-bottom: 2px solid purple;
+}
+
 a {
     color: purple;
     text-decoration: none;
@@ -69,18 +74,20 @@ body {
     color: purple;
     background-color: mistyrose;
     font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .main img {
     height: 300px;
     width: 300px;
-    float: center;
     border: none;
 }
 
 .picture {
     flex-grow: 1;
     width: 50%;
+    overflow: hidden;
     position: relative;
     object-fit: contain;
     padding: 5px;
@@ -93,10 +100,6 @@ body {
     bottom: 15px;
     font-size: 20px;
     background-color: plum;
-}
-
-.picture a img {
-    border-radius: 2%;
 }
 
 .picture:hover {
@@ -112,6 +115,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    align-items: center;
 }
 
 footer {
