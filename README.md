@@ -48,7 +48,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## URL of Deployed Application
 
-
+[Deployed Gitpage](https://nverhulp.github.io/my-portfolio/)
 
 ## Credits
 
