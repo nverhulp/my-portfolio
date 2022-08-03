@@ -18,7 +18,7 @@ With these points in mind, in this Challenge you’ll set yourself up for future
 
 ## Deployed Page
 
-
+<img src="./assets/images/deployed-page.png">
 
 ## Acceptance Criteria
 
