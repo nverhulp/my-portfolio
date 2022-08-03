@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: plum;
+    color: white;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display:inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
