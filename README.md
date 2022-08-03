@@ -43,8 +43,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 3. Made each work image a clickable link that would take user to a new page.
 4. Added captions to each work image.
 5. Added a hover effect so that the user would know which image they are on.
-7. Included a contact section that leads user to email me, my github profile, and my LinkedIn page.
-8. Made sure to have a responsive layout that adapts to user's viewport.
+6. Included a contact section that leads user to email me, my github profile, and my LinkedIn page.
+7. Made sure to have a responsive layout that adapts to user's viewport.
 
 ## URL of Deployed Application
 
