@@ -39,15 +39,12 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Comments
 
 1. Linked sections to corresponding header name.
-2. Created three sections: About Me, Work Experience, Contact Me.
-3. Made each work experience image a clickable link that would take user to a new page.
-4. Added a "Go Back to Home" button on other html pages.
-5. Added captions to each work experience image.
-6. Added a hover effect so that the user would know which image they are on.
-7. Created individual pages with small excerpt about each work experience.
-8. Included a contact section that leads user to email me, my github profile, and my LinkedIn page.
-9. Assigned different sections to similar classes so that I could have cleaner code in my style.css file.
-10. Made sure to have a responsive layout that adapts to user's viewport.
+2. Created four sections: Portrait, About Me, Work, Contact Me.
+3. Made each work image a clickable link that would take user to a new page.
+4. Added captions to each work image.
+5. Added a hover effect so that the user would know which image they are on.
+7. Included a contact section that leads user to email me, my github profile, and my LinkedIn page.
+8. Made sure to have a responsive layout that adapts to user's viewport.
 
 ## URL of Deployed Application
 
