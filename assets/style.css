@@ -70,3 +70,45 @@ body {
     color: purple;
     background-color: mistyrose;
 }
+
+.picture {
+    flex-grow: 1;
+    width: 50%;
+    position: relative;
+    object-fit: contain;
+    padding: 5px;
+}
+
+
+.picture h3 {
+    position: absolute;
+    padding: 10px;
+    bottom: 15px;
+    font-size: 20px;
+    background-color: plum;
+}
+
+.picture:hover {
+    box-shadow: inset 0px 0px 8px purple, 0 0 15 px purple;
+    transform: scale(1.05);
+}
+
+.picture:nth-of-type(1) {
+    width: 100%;
+}
+
+.worklist {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: plum;
+    color: purple;
+    text-align: center;
+}
