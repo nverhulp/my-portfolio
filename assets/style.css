@@ -85,7 +85,7 @@ body {
 
 .picture {
     flex-grow: 1;
-    width: 50%;
+    width: 75%;
     overflow: hidden;
     position: relative;
     object-fit: contain;
